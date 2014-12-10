@@ -26,7 +26,7 @@
 Наименование    | Сертификат
 --------------- | -------------
 Linux           | [Stepic](https://stepic.org/certificate/ea58ed5ec9ccaa99502af3ac68fcd63c23e3fb6e.pdf)
-Пользователь ПК | [Retratech](http://certifications.ru/resume/197077/)
+Пользователь ПК | [Retratech](http://certifications.ru/result/test/id/776658)
 
 ###### Имеющиеся навыки:
 - Вёрстка web-дизайнов. (Адаптация под шаблоны: Joomla, Drupal, DLE, WordPress, uCoz)
