@@ -28,6 +28,9 @@
 Linux           | [Stepic](https://stepic.org/certificate/ea58ed5ec9ccaa99502af3ac68fcd63c23e3fb6e.pdf)
 Пользователь ПК | [Retratech](http://certifications.ru/result/test/id/776658)
 
+###### Профили на других сайтах
+- http://www.codecademy.com/Demetrio95
+
 ###### Имеющиеся навыки:
 - Вёрстка web-дизайнов. (Адаптация под шаблоны: Joomla, Drupal, DLE, WordPress, uCoz)
 - Разработка приложений под GNU/Linux, Windows, MacOS
