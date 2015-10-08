@@ -12,8 +12,8 @@
 |----|------------| ------------|
 |  1 | Си         | Отсутствует |
 |  2 | C++        | Отсутствует |
-|  3 | HTML       | Отсутствует |
-|  4 | CSS        | Отсутствует |
+|  3 | HTML       | [RU](./certificate/specialist/ru_html%26css_basic.png) [EN](./certificate/specialist/en_html%26css_basic.png) |
+|  4 | CSS        | [RU](./certificate/specialist/ru_html%26css_basic.png) [EN](./certificate/specialist/en_html%26css_basic.png) |
 |  5 | JavaScript | Отсутствует |
 |  6 | Java       | Отсутствует |
 |  7 | php        | Отсутствует |
