@@ -32,6 +32,7 @@ Linux           | [Stepic](https://stepic.org/certificate/ea58ed5ec9ccaa99502af3
 Web Дизайн      | [GeekBrains](https://geekbrains.ru/certificates/44971)
 Основы Прог-ния | [GeekBrains](https://geekbrains.ru/certificates/44050)
 Git             | [GeekBrains](https://geekbrains.ru/certificates/98714)
+PhotoShop       | [GeekBrains](https://geekbrains.ru/certificates/98725)
 
 ###### Профили на других сайтах
 - [CodeCademy](http://www.codecademy.com/Demetrio95)
