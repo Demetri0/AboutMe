@@ -12,16 +12,15 @@
 |----|------------| ------------|
 |  1 | Си         | Отсутствует |
 |  2 | С++        | Отсутствует |
-|  3 | HTML/HTML5 | [ЦКО "Специалист"](./certificate/specialist/ru_html%26css_basic.png)|
-|  4 | CSS/CSS3   | [ЦКО "Специалист"](./certificate/specialist/ru_html%26css_basic.png)|
-|  5 | JavaScript | [GeekBrains](https://geekbrains.ru/certificates/98723) |
-|  6 | php        | [GeekBrains](https://geekbrains.ru/certificates/46750) |
-|  7 | Java       | [GeekBrains](https://geekbrains.ru/certificates/46738) |
-|  8 | Python     | Отсутствует |
-|  9 | SQL        | Отсутствует |
-| 10 | Assembly   | Отсутствует |
-| 11 | Delphy     | Отсутствует |
-| 12 | Pascal     | Отсутствует |
+|  3 | HTML5/CSS3 | [ЦКО "Специалист"](./certificate/specialist/ru_html%26css_basic.png)|
+|  4 | JavaScript | [GeekBrains](https://geekbrains.ru/certificates/98723) |
+|  5 | php        | [GeekBrains](https://geekbrains.ru/certificates/46750) |
+|  6 | Java       | [GeekBrains](https://geekbrains.ru/certificates/46738) |
+|  7 | Python     | Отсутствует |
+|  8 | SQL        | Отсутствует |
+|  9 | Assembly   | Отсутствует |
+| 10 | Delphy     | Отсутствует |
+| 11 | Pascal     | Отсутствует |
 
 
 ###### Прочие сертификаты:
@@ -39,7 +38,7 @@ Git             | [GeekBrains](https://geekbrains.ru/certificates/98714)
 - [Вконтакте](https://vk.com/demetri0)
 
 ###### Имеющиеся навыки:
-- **Вёрстка web-дизайнов**. (Адаптация под шаблоны: `Joomla`, `uCoz`)
+- **Вёрстка web-дизайнов**. (Адаптация под шаблоны: `Joomla`, `uCoz`), адаптивная вёрстка.
 - Работа с `Node.js`, `Angular.js`, `Bootstrap`, `Socket.io`, `Meteor.js`
 - **Рефакторинг** и **ревью** кода.
 - **Разработка приложений** под `GNU/Linux`, `Windows`, `MacOS`
