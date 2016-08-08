@@ -3,22 +3,22 @@
 
 ###### Предпочтения:
 - Система:    GNU/Linux
-- Язык:       C/C++
-- Фреймворк:  Qt
+- Язык:       C/C++/Java/Python
+- Фреймворки: Qt/Node.js
 
 ###### Знание языков (В порядке уровня знаний, выше-лучше):
 
 |  # |    Язык    |  Сертификат |
 |----|------------| ------------|
-|  1 | С++        | Отсутствует |
-|  2 | Си         | Отсутствует |
-|  3 | HTML       | [ЦКО "Специалист"](./certificate/specialist/ru_html%26css_basic.png)|
-|  4 | CSS        | [ЦКО "Специалист"](./certificate/specialist/ru_html%26css_basic.png)|
-|  5 | JavaScript | Отсутствует |
-|  6 | Java       | Отсутствует |
-|  7 | php        | Отсутствует |
-|  8 | SQL        | Отсутствует |
-|  9 | Python     | Отсутствует |
+|  1 | Си         | Отсутствует |
+|  2 | С++        | Отсутствует |
+|  3 | HTML/HTML5 | [ЦКО "Специалист"](./certificate/specialist/ru_html%26css_basic.png)|
+|  4 | CSS/CSS3   | [ЦКО "Специалист"](./certificate/specialist/ru_html%26css_basic.png)|
+|  5 | JavaScript | [GeekBrains](https://geekbrains.ru/certificates/46740) |
+|  6 | php        | [GeekBrains](https://geekbrains.ru/certificates/46750) |
+|  7 | Java       | [GeekBrains](https://geekbrains.ru/certificates/46738) |
+|  8 | Python     | Отсутствует |
+|  9 | SQL        | Отсутствует |
 | 10 | Assembly   | Отсутствует |
 | 11 | Delphy     | Отсутствует |
 | 12 | Pascal     | Отсутствует |
@@ -30,6 +30,8 @@
 --------------- | -------------
 Linux           | [Stepic](https://stepic.org/certificate/ea58ed5ec9ccaa99502af3ac68fcd63c23e3fb6e.pdf)
 Пользователь ПК | [Retratech](http://certifications.ru/result/test/id/776658)
+Web Дизайн      | [GeekBrains](https://geekbrains.ru/certificates/44971)
+Основы Прог-ния | [GeekBrains](https://geekbrains.ru/certificates/44050)
 
 ###### Профили на других сайтах
 - [CodeCademy](http://www.codecademy.com/Demetrio95)
@@ -37,7 +39,7 @@ Linux           | [Stepic](https://stepic.org/certificate/ea58ed5ec9ccaa99502af3
 
 ###### Имеющиеся навыки:
 - **Вёрстка web-дизайнов**. (Адаптация под шаблоны: `Joomla`, `uCoz`)
-- Работа с `Node.js`, `Angular.js`, `Bootstrap`, `Socket.io`
+- Работа с `Node.js`, `Angular.js`, `Bootstrap`, `Socket.io`, `Meteor.js`
 - **Рефакторинг** и **ревью** кода.
 - **Разработка приложений** под `GNU/Linux`, `Windows`, `MacOS`
 - Проектирование топологии сетей
@@ -46,6 +48,10 @@ Linux           | [Stepic](https://stepic.org/certificate/ea58ed5ec9ccaa99502af3
 - Имеется навык использования **CVS(Система Контроля Версий)** `Git`, `Mercurial`.
 - Имеются навыки работы с графическими редакторами `Photoshop`, `Krita`, `CorelDRAW`, `Inkscape`.
 - Имеются небольшие навыки **проектирования пользовательских интерфейсов** (`User Central Design`, `Goal Central Design`, `Task Central Design`)
+- Небольшие навыки рисования дизайна сайтов, во Flat и Material стилях.
+
+###### Опыт работы
+- `1 год` - На должности `Fullstack web developer`, в компании `YBL.Marketing`, на фреймворке написанном компанией.
 
 ###### Примеры работ:
 - Примеры некоторых работ можно посмотреть на моей странице ВКонтакте:  [Видео](https://vk.com/video?section=album_48157613), [Картинки](https://vk.com/album181219257_170061149)
