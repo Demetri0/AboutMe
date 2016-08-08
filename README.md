@@ -32,6 +32,7 @@ Linux           | [Stepic](https://stepic.org/certificate/ea58ed5ec9ccaa99502af3
 Пользователь ПК | [Retratech](http://certifications.ru/result/test/id/776658)
 Web Дизайн      | [GeekBrains](https://geekbrains.ru/certificates/44971)
 Основы Прог-ния | [GeekBrains](https://geekbrains.ru/certificates/44050)
+Git             | [GeekBrains](https://geekbrains.ru/certificates/98714)
 
 ###### Профили на других сайтах
 - [CodeCademy](http://www.codecademy.com/Demetrio95)
