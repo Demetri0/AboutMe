@@ -12,8 +12,8 @@
 |----|------------| ------------|
 |  1 | Си         | Отсутствует |
 |  2 | С++        | Отсутствует |
-|  3 | HTML5/CSS3 | [ЦКО "Специалист"](./certificate/specialist/ru_html%26css_basic.png)|
-|  4 | JavaScript | [GeekBrains](https://geekbrains.ru/certificates/98723) |
+|  3 | HTML5/CSS3 | [ЦКО "Специалист"](./certificate/specialist/ru_html%26css_basic.png) [GeekBrains](https://geekbrains.ru/certificates/98723) |
+|  4 | JavaScript | [GeekBrains](https://geekbrains.ru/certificates/46740) |
 |  5 | php        | [GeekBrains](https://geekbrains.ru/certificates/46750) |
 |  6 | Java       | [GeekBrains](https://geekbrains.ru/certificates/46738) |
 |  7 | Python     | Отсутствует |
