@@ -10,7 +10,7 @@
 
 |  # |    Язык    |  Сертификат |
 |----|------------| ------------|
-|  1 | HTML5/CSS3 | [ЦКО "Специалист" L3](./certificate/specialist/ru_html%26css_basic.png) [GeekBrains](https://geekbrains.ru/certificates/98723) |
+|  1 | HTML5/CSS3 | [ЦКО "Специалист" L3](./certificate/specialist/ru_html%26css_basic.png) [GeekBrains L2](https://geekbrains.ru/certificates/98723) |
 |  2 | JavaScript | [GeekBrains L1](https://geekbrains.ru/certificates/46740) |
 |  3 | Си         | Отсутствует |
 |  4 | С++        | Отсутствует |
@@ -66,7 +66,7 @@ Deployment сайтов на продакшн сервера. Настройка
 ## Примеры работ:
 - Примеры некоторых работ можно посмотреть на моей странице ВКонтакте:  [Видео](https://vk.com/video?section=album_48157613), [Картинки](https://vk.com/album181219257_170061149)
 - Примеры вёрстки: 
-  - [gsc-mod.ru](http://gsc-mod.ru) (2010г)
+  - [gsc-mod.ru](http://stalker-zone13.ucoz.ru/) (2010г)
   - Во время работы в `Your Busines Lab`
     - [karat-composit.kz](karat-composit.kz) (2015г)
     - [abexpo.kz](http://abexpo.kz/) (2016г)
