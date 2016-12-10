@@ -10,12 +10,12 @@
 
 |  # |    Язык    |  Сертификат |
 |----|------------| ------------|
-|  1 | HTML5/CSS3 | [ЦКО "Специалист"](./certificate/specialist/ru_html%26css_basic.png) [GeekBrains](https://geekbrains.ru/certificates/98723) |
-|  2 | JavaScript | [GeekBrains](https://geekbrains.ru/certificates/46740) |
+|  1 | HTML5/CSS3 | [ЦКО "Специалист" L3](./certificate/specialist/ru_html%26css_basic.png) [GeekBrains](https://geekbrains.ru/certificates/98723) |
+|  2 | JavaScript | [GeekBrains L1](https://geekbrains.ru/certificates/46740) |
 |  3 | Си         | Отсутствует |
 |  4 | С++        | Отсутствует |
-|  5 | php        | [GeekBrains](https://geekbrains.ru/certificates/46750) |
-|  6 | Java       | [GeekBrains](https://geekbrains.ru/certificates/46738) |
+|  5 | php        | [GeekBrains L1](https://geekbrains.ru/certificates/46750) |
+|  6 | Java       | [GeekBrains L1](https://geekbrains.ru/certificates/46738) |
 |  7 | Python     | Отсутствует |
 |  8 | SQL        | Отсутствует |
 |  9 | Assembly   | Отсутствует |
