@@ -1,43 +1,6 @@
 Обо мне
 =======
 
-## Предпочтения:
-- Система:    GNU/Linux(*nix)
-- Язык:       C/C++/Java/Python/JavaScript
-- Фреймворки: Qt/Node.js/React
-
-## Знание языков (В порядке уровня знаний, выше-лучше):
-
-|  # |    Язык    |  Сертификат |
-|----|------------| ------------|
-|  1 | HTML5/CSS3 | [ЦКО "Специалист" L3](./certificate/specialist/ru_html%26css_basic.png) [GeekBrains L2](https://geekbrains.ru/certificates/98723) |
-|  2 | JavaScript | [GeekBrains L1](https://geekbrains.ru/certificates/46740) |
-|  3 | Си         | Отсутствует |
-|  4 | С++        | Отсутствует |
-|  5 | php        | [GeekBrains L1](https://geekbrains.ru/certificates/46750) |
-|  6 | Java       | [GeekBrains L1](https://geekbrains.ru/certificates/46738) |
-|  7 | Python     | Отсутствует |
-|  8 | SQL        | Отсутствует |
-|  9 | Assembly   | Отсутствует |
-| 10 | Delphy     | Отсутствует |
-| 11 | Pascal     | Отсутствует |
-
-
-## Прочие сертификаты:
-
-Наименование    | Сертификат
---------------- | -------------
-Linux           | [Stepic](https://stepic.org/certificate/ea58ed5ec9ccaa99502af3ac68fcd63c23e3fb6e.pdf)
-Пользователь ПК | [Retratech](http://certifications.ru/result/test/id/776658)
-Web Дизайн      | [GeekBrains](https://geekbrains.ru/certificates/44971)
-Основы Прог-ния | [GeekBrains](https://geekbrains.ru/certificates/44050)
-Git             | [GeekBrains](https://geekbrains.ru/certificates/98714)
-PhotoShop       | [GeekBrains](https://geekbrains.ru/certificates/98725)
-
-## Профили на других сайтах
-- [CodeCademy](http://www.codecademy.com/Demetrio95)
-- [Вконтакте](https://vk.com/demetri0)
-
 ## Имеющиеся навыки:
 - **Вёрстка web-дизайнов**. (Адаптация под шаблоны: `Joomla`, `uCoz`), адаптивная вёрстка.
 - Работа с `Node.js`, `Angular.js`, `Bootstrap`, `Socket.io`, `Meteor.js`
@@ -62,7 +25,6 @@ Deployment сайтов на продакшн сервера. Настройка
 
 За время работы я развил в себе базовые дизайнерские навыки, позволяющие делать интерфейсы не такими уж некрасивыми как их обычно делают программисты. Приобрёл базовые знания о `AngularJS`, `VueJS`, а так же повысил свои навыки в `php` и `JavaScript`.
 
-
 ## Примеры работ:
 - Примеры некоторых работ можно посмотреть на моей странице ВКонтакте:  [Видео](https://vk.com/video?section=album_48157613), [Картинки](https://vk.com/album181219257_170061149)
 - Примеры вёрстки: 
@@ -76,6 +38,41 @@ Deployment сайтов на продакшн сервера. Настройка
     - [kazaids.kz](http://kazaids.kz/ru/) (2016г)
     - [autobaraholka.kz](http://autobaraholka.kz/) (2016г)
   - больше, на собеседовании. (Если ссылки устарели, так же на собеседовании)
+
+## Знание языков (В порядке уровня знаний, выше-лучше):
+
+|  # |    Язык    |  Сертификат |
+|----|------------| ------------|
+|  1 | HTML5/CSS3 | [ЦКО "Специалист" (L3)](./certificate/specialist/ru_html%26css_basic.png) [GeekBrains (L2)](https://geekbrains.ru/certificates/98723) |
+|  2 | JavaScript | [GeekBrains (L1)](https://geekbrains.ru/certificates/46740) |
+|  3 | Си         | Отсутствует |
+|  4 | С++        | Отсутствует |
+|  5 | php        | [GeekBrains (L1)](https://geekbrains.ru/certificates/46750) |
+|  6 | Java       | [GeekBrains (L1)](https://geekbrains.ru/certificates/46738) |
+|  7 | Python     | Отсутствует |
+|  8 | SQL        | Отсутствует |
+|  9 | Assembly   | Отсутствует |
+| 10 | Delphy     | Отсутствует |
+| 11 | Pascal     | Отсутствует |
+
+
+## Прочие сертификаты:
+
+Наименование    | Сертификат
+--------------- | -------------
+Linux           | [Stepic](https://stepic.org/certificate/ea58ed5ec9ccaa99502af3ac68fcd63c23e3fb6e.pdf)
+Web Дизайн      | [GeekBrains](https://geekbrains.ru/certificates/44971)
+Git             | [GeekBrains](https://geekbrains.ru/certificates/98714)
+PhotoShop       | [GeekBrains](https://geekbrains.ru/certificates/98725)
+
+## Профили на других сайтах
+- [CodeCademy](http://www.codecademy.com/Demetrio95)
+- [Вконтакте](https://vk.com/demetri0)
+
+## Предпочтения:
+- Система:    GNU/Linux(*nix)
+- Язык:       C/C++/Java/Python/JavaScript
+- Фреймворки: Qt/Node.js/React
 
 ## О себе:
 Закончил колледж в 2015 году, по специальности "Вычислительная техника и программное обеспечение". Постоянно занимаюсь самообучением, не выношу скучной и нудной работы. Люблю программировать, нравится всё что связано с IT(Информационными Технологиями). Предпочитаю работать в команде, где не только я вовлечён в разработку продукта.
