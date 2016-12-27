@@ -1,43 +1,15 @@
 Обо мне
 =======
 
-## Имеющиеся навыки:
-- **Вёрстка web-дизайнов**. (Адаптация под шаблоны: `Joomla`, `uCoz`), адаптивная вёрстка.
-- Работа с `Node.js`, `Angular.js`, `Bootstrap`, `Socket.io`, `Meteor.js`
-- **Рефакторинг** и **ревью** кода.
-- **Разработка приложений** под `GNU/Linux`, `Windows`, `MacOS`
-- Проектирование топологии сетей
-- Разработка 2D игр с использованием графической библиотеки `OpenGL`
-- Начальные навыки работы с графическим 3D движком `Ogre3D`
-- Микроразметка страниц по [schema.org](schema.org)
-- Имеется навык использования **CVS(Система Контроля Версий)** `Git`, `Mercurial`.
-- Имеются навыки работы с графическими редакторами `Photoshop`, `Krita`, `CorelDRAW`, `Inkscape`.
-- Имеются небольшие навыки **проектирования пользовательских интерфейсов** (`User Central Design`, `Goal Central Design`, `Task Central Design`)
-- Небольшие навыки рисования дизайна сайтов, во Flat и Material стилях.
+## Контакты
+- [Вконтакте](https://vk.com/demetri0)
+- [Telegram](https://telegram.me/demetri0)
+- [d3i0@ya.ru](mailto:d3i0@ya.ru)
 
-## Опыт работы
-### Your Busines Lab
-#### Fullstack Web Developer
-Разработка web-сайтов. **Backend** на `php`-фреймворке написанном компанией + развитие этого фреймворка; **Frontend**: вёрстка, разработка `jQuery` плагинов, js-плагинов(*no-jq*) для фреймворка компании.
-Deployment сайтов на продакшн сервера. Настройка корпоративной почты, `Google Analytics` & `Yandex.Metric`
-
-За время работы переписал более трети модулей, и разработал несколько новых модулей для фреймворка, таких как: **форум**, **поиск**, **доска объявлений** для интернет магазинов и **модуль для перевода интерфейса сайта** похожий на `QtLinguist`. Так же мной была разработана система сборки проекта основанная на `gulp`(*имеется ввиду не сборка фронтенда*),
-
-За время работы я развил в себе базовые дизайнерские навыки, позволяющие делать интерфейсы не такими уж некрасивыми как их обычно делают программисты. Приобрёл базовые знания о `AngularJS`, `VueJS`, а так же повысил свои навыки в `php` и `JavaScript`.
-
-## Примеры работ:
-- Примеры некоторых работ можно посмотреть на моей странице ВКонтакте:  [Видео](https://vk.com/video?section=album_48157613), [Картинки](https://vk.com/album181219257_170061149)
-- Примеры вёрстки: 
-  - [gsc-mod.ru](http://stalker-zone13.ucoz.ru/) (2010г)
-  - Во время работы в `Your Busines Lab`
-    - [karat-composit.kz](karat-composit.kz) (2015г)
-    - [abexpo.kz](http://abexpo.kz/) (2016г)
-    - [nobelkz.com](http://nobelkz.com/) (2016г)
-    - [tts-security.kz](http://tts-security.kz/) (2016г)
-    - [abenovaclinic.kz](http://abenovaclinic.kz/) (2016г)
-    - [kazaids.kz](http://kazaids.kz/ru/) (2016г)
-    - [autobaraholka.kz](http://autobaraholka.kz/) (2016г)
-  - больше, на собеседовании. (Если ссылки устарели, так же на собеседовании)
+## Предпочтения:
+- Система:    GNU/Linux(*nix)
+- Язык:       C/C++/Java/Python/JavaScript
+- Фреймворки: Qt/Node.js/React
 
 ## Знание языков (В порядке уровня знаний, выше-лучше):
 
@@ -55,6 +27,62 @@ Deployment сайтов на продакшн сервера. Настройка
 | 10 | Delphy     | Отсутствует |
 | 11 | Pascal     | Отсутствует |
 
+**Сертификатами не особо заморачивался, просто на прошлой работе попросили получить чтобы расположить на сайте, но в итоге не понадобились.*
+
+## Имеющиеся навыки:
+
+### Общие навыки
+- Имеется навык использования **CVS(Система Контроля Версий)** `Git`, `Mercurial`.
+- Имеются знания паттёрное и антипаттёрнов проектирования. (`GOF`, `GRASP`)
+- 
+
+### WEB Разработка
+- **Адаптивная вёрстка**. (`HTML5`, `CSS3`, `ES5`, `ES6`)
+- Работа с `Node.js`, `AngularJS`, `VueJS`, `ReactJS`, `Socket.io`, `Meteor.js`
+- Микроразметка страниц по [schema.org](schema.org)
+- Имеются навыки работы с графическими редакторами `Photoshop`, `Krita`, `CorelDRAW`, `Inkscape`.
+- Имеются небольшие навыки **проектирования пользовательских интерфейсов** (`User Central Design`, `Goal Central Design`, `Task Central Design`)
+- Небольшие навыки рисования дизайна сайтов, во Flat и Material стилях.
+
+### Прикладное ПО
+- **Разработка приложений** под `GNU/Linux`, `Windows`, `MacOS`
+- **Рефакторинг** и **ревью** кода.
+- Разработка 2D игр с использованием графической библиотеки `OpenGL`
+- Начальные навыки работы с графическим 3D движком `Ogre3D`
+
+## Опыт работы
+### Your Busines Lab
+#### Fullstack Web Developer
+Разработка web-сайтов. **Backend** на `php`-фреймворке написанном компанией + развитие этого фреймворка; **Frontend**: вёрстка, разработка `jQuery` плагинов, js-плагинов(*no-jq*) для фреймворка компании.
+Deployment сайтов на продакшн сервера. Настройка корпоративной почты, `Google Analytics` & `Yandex.Metric`
+
+За время работы переписал более трети модулей, и разработал несколько новых модулей для фреймворка, таких как: **форум**, **поиск**, **доска объявлений** для интернет магазинов и **модуль для перевода интерфейса сайта** похожий на `QtLinguist`. Так же мной была разработана система сборки проекта основанная на `gulp`(*имеется ввиду не сборка фронтенда*),
+
+За время работы я развил в себе базовые дизайнерские навыки, позволяющие делать интерфейсы не такими уж некрасивыми как их обычно делают программисты. Приобрёл базовые знания о `AngularJS`, `VueJS`, а так же повысил свои навыки в `php` и `JavaScript`.
+
+## Примеры работ:
+- Примеры некоторых работ можно посмотреть на моей странице ВКонтакте:  [Видео](https://vk.com/video?section=album_48157613), [Картинки](https://vk.com/album181219257_170061149)
+- [Particle System on CoffeeScript](https://github.com/Demetri0/CoffeeScript-ParticleSystem)
+- Примеры вёрстки:
+  - [gsc-mod.ru](http://stalker-zone13.ucoz.ru/) (2010г)
+  - [xomdes.tk](https://github.com/Demetri0/xD_Xomdes) (2011г)
+  - Во время работы в `Your Busines Lab`
+    - [karat-composit.kz](karat-composit.kz) (2015г)
+    - [abexpo.kz](http://abexpo.kz/) (2016г)
+    - [nobelkz.com](http://nobelkz.com/) (2016г)
+    - [tts-security.kz](http://tts-security.kz/) (2016г)
+    - [abenovaclinic.kz](http://abenovaclinic.kz/) (2016г)
+    - [kazaids.kz](http://kazaids.kz/ru/) (2016г)
+    - [autobaraholka.kz](http://autobaraholka.kz/) (2016г)
+  - больше, на собеседовании. (Если ссылки устарели, так же на собеседовании)
+- Прикладное ПО и свои наработки
+  - [DatabaseAnime(Qt)](https://github.com/LibertaSoft/DatabaseAnime) (2014г - now)
+  - [2D Game like a Mario(OpenGL)](https://github.com/Demetri0/2D_Game) (2014г)
+  - [PassManager(Qt)](https://github.com/Demetri0/Pass_Manager) (2015г)
+  - [PhotoEffects(OpenGL)](https://github.com/Demetri0/PhotoEffect) (2013г)
+  - [ParameterParser on callbacks(C++)](https://github.com/Demetri0/ParametrParser) (2014г)
+  - [Ogre3D Tests](https://github.com/Demetri0/Ogre3DMovement) (2014г)
+  - [MaxFromTriangle recursive](https://github.com/Demetri0/Triangle)
 
 ## Прочие сертификаты:
 
@@ -64,15 +92,6 @@ Linux           | [Stepic](https://stepic.org/certificate/ea58ed5ec9ccaa99502af3
 Web Дизайн      | [GeekBrains](https://geekbrains.ru/certificates/44971)
 Git             | [GeekBrains](https://geekbrains.ru/certificates/98714)
 PhotoShop       | [GeekBrains](https://geekbrains.ru/certificates/98725)
-
-## Профили на других сайтах
-- [CodeCademy](http://www.codecademy.com/Demetrio95)
-- [Вконтакте](https://vk.com/demetri0)
-
-## Предпочтения:
-- Система:    GNU/Linux(*nix)
-- Язык:       C/C++/Java/Python/JavaScript
-- Фреймворки: Qt/Node.js/React
 
 ## О себе:
 Закончил колледж в 2015 году, по специальности "Вычислительная техника и программное обеспечение". Постоянно занимаюсь самообучением, не выношу скучной и нудной работы. Люблю программировать, нравится всё что связано с IT(Информационными Технологиями). Предпочитаю работать в команде, где не только я вовлечён в разработку продукта.
