@@ -37,7 +37,7 @@
 
 ### WEB Разработка
 - **Адаптивная вёрстка**. (`HTML5`, `CSS3`, `ES5`, `ES6`)
-- Работа с `Node.js`, `AngularJS`, `VueJS`, `ReactJS`, `Socket.io`, `Meteor.js`
+- Базовые навыки работы с `NodeJS`, `AngularJS`, `VueJS`, `ReactJS`, `Socket.io`, `Meteor.js`
 - Микроразметка страниц по [schema.org](schema.org)
 - Имеются навыки работы с графическими редакторами `Photoshop`, `Krita`, `CorelDRAW`, `Inkscape`.
 - Имеются небольшие навыки **проектирования пользовательских интерфейсов** (`User Central Design`, `Goal Central Design`, `Task Central Design`)
@@ -61,10 +61,10 @@ Deployment сайтов на продакшн сервера. Настройка
 
 ## Примеры работ:
 - Примеры некоторых работ можно посмотреть на моей странице ВКонтакте:  [Видео](https://vk.com/video?section=album_48157613), [Картинки](https://vk.com/album181219257_170061149)
-- [Particle System on CoffeeScript](https://github.com/Demetri0/CoffeeScript-ParticleSystem)
+- [Particle System on CoffeeScript](https://github.com/Demetri0/CoffeeScript-ParticleSystem) [[Видео]](https://vk.com/video181219257_171517914)
 - Примеры вёрстки:
-  - [gsc-mod.ru](http://stalker-zone13.ucoz.ru/) (2010г)
-  - [xomdes.tk](https://github.com/Demetri0/xD_Xomdes) (2011г)
+  - [gsc-mod.ru](http://stalker-zone13.ucoz.ru/) [[Картинка]](https://pp.vk.me/c628123/v628123257/bf35/6I0knWLINdo.jpg) (2010г)
+  - [xomdes.tk](https://github.com/Demetri0/xD_Xomdes) [[Картинка]](https://github.com/Demetri0/xD_Xomdes/raw/master/design.jpg) (2011г)
   - Во время работы в `Your Busines Lab`
     - [karat-composit.kz](karat-composit.kz) (2015г)
     - [abexpo.kz](http://abexpo.kz/) (2016г)
@@ -73,15 +73,15 @@ Deployment сайтов на продакшн сервера. Настройка
     - [abenovaclinic.kz](http://abenovaclinic.kz/) (2016г)
     - [kazaids.kz](http://kazaids.kz/ru/) (2016г)
     - [autobaraholka.kz](http://autobaraholka.kz/) (2016г)
-  - больше, на собеседовании. (Если ссылки устарели, так же на собеседовании)
+  - Больше, на собеседовании. (Если ссылки устарели, так же на собеседовании)
 - Прикладное ПО и свои наработки
-  - [DatabaseAnime(Qt)](https://github.com/LibertaSoft/DatabaseAnime) (2014г - now)
-  - [2D Game like a Mario(OpenGL)](https://github.com/Demetri0/2D_Game) (2014г)
+  - [DatabaseAnime(Qt)](https://github.com/LibertaSoft/DatabaseAnime) [[Видео]](https://vk.com/video181219257_170854233) (2014г - now)
+  - [2D Game like a Mario(OpenGL)](https://github.com/Demetri0/2D_Game) [[Видео]](https://vk.com/video181219257_167341010) (2014г)
   - [PassManager(Qt)](https://github.com/Demetri0/Pass_Manager) (2015г)
-  - [PhotoEffects(OpenGL)](https://github.com/Demetri0/PhotoEffect) (2013г)
+  - [PhotoEffects(OpenGL)](https://github.com/Demetri0/PhotoEffect) [[Видео]](https://vk.com/video181219257_165261615) (2013г)
   - [ParameterParser on callbacks(C++)](https://github.com/Demetri0/ParametrParser) (2014г)
-  - [Ogre3D Tests](https://github.com/Demetri0/Ogre3DMovement) (2014г)
-  - [MaxFromTriangle recursive](https://github.com/Demetri0/Triangle)
+  - [Ogre3D Movement & Animation](https://github.com/Demetri0/Ogre3DMovement) [[Видео]](https://vk.com/video181219257_168403478) (2014г)
+  - [MaxFromTriangle recursive](https://github.com/Demetri0/Triangle) [[Картинка]](https://pp.vk.me/c621825/v621825257/12cb1/HYk2KsLY1lw.jpg)
 
 ## Прочие сертификаты:
 
