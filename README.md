@@ -48,7 +48,7 @@
 ### Прикладное ПО
 - **Разработка приложений** под `GNU/Linux`, `Windows`, `MacOS`
 - **Рефакторинг** и **ревью** кода.
-- Разработка 2D игр с использованием графической библиотеки `OpenGL`
+- Разработка 2D игр с использованием графической библиотеки `OpenGL` и `SFML`
 - Начальные навыки работы с графическим 3D движком `Ogre3D`
 
 ## Опыт работы
@@ -84,6 +84,7 @@ Deployment сайтов на продакшн сервера. Настройка
   - [ParameterParser on callbacks(C++)](https://github.com/Demetri0/ParametrParser) (2014г)
   - [Ogre3D Movement & Animation](https://github.com/Demetri0/Ogre3DMovement) [[Видео]](https://vk.com/video181219257_168403478) (2014г)
   - [MaxFromTriangle recursive](https://github.com/Demetri0/Triangle) [[Картинка]](https://pp.vk.me/c621825/v621825257/12cb1/HYk2KsLY1lw.jpg)
+  - [Qt-like librart for WinApi](https://github.com/TheCodingArt/WWin) (2017г)
 
 ## Прочие сертификаты:
 
