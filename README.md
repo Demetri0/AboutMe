@@ -84,7 +84,7 @@ Deployment сайтов на продакшн сервера. Настройка
   - [ParameterParser on callbacks(C++)](https://github.com/Demetri0/ParametrParser) (2014г)
   - [Ogre3D Movement & Animation](https://github.com/Demetri0/Ogre3DMovement) [[Видео]](https://vk.com/video181219257_168403478) (2014г)
   - [MaxFromTriangle recursive](https://github.com/Demetri0/Triangle) [[Картинка]](https://pp.vk.me/c621825/v621825257/12cb1/HYk2KsLY1lw.jpg)
-  - [Qt-like librart for WinApi](https://github.com/TheCodingArt/WWin) (2017г)
+  - [Qt-like library for WinApi](https://github.com/TheCodingArt/WWin) (2017г)
 
 ## Прочие сертификаты:
 
