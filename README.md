@@ -77,14 +77,15 @@ Deployment сайтов на продакшн сервера. Настройка
     - [autobaraholka.kz](http://autobaraholka.kz/) (2016г)
   - Больше, на собеседовании. (Если ссылки устарели, так же на собеседовании)
 - Прикладное ПО и свои наработки
-  - [DatabaseAnime(Qt)](https://github.com/LibertaSoft/DatabaseAnime) [[Видео]](https://vk.com/video181219257_170854233) (2014г - now)
-  - [2D Game like a Mario(OpenGL)](https://github.com/Demetri0/2D_Game) [[Видео]](https://vk.com/video181219257_167341010) (2014г)
+  - [DatabaseAnime(Qt/C++)](https://github.com/LibertaSoft/DatabaseAnime) [[Видео]](https://vk.com/video181219257_170854233) (2014г - now)
+  - [2D Game like a Mario(OpenGL/C++)](https://github.com/Demetri0/2D_Game) [[Видео]](https://vk.com/video181219257_167341010) (2014г)
   - [PassManager(Qt)](https://github.com/Demetri0/Pass_Manager) (2015г)
-  - [PhotoEffects(OpenGL)](https://github.com/Demetri0/PhotoEffect) [[Видео]](https://vk.com/video181219257_165261615) (2013г)
+  - [PhotoEffects(OpenGL/C++)](https://github.com/Demetri0/PhotoEffect) [[Видео]](https://vk.com/video181219257_165261615) (2013г)
   - [ParameterParser on callbacks(C++)](https://github.com/Demetri0/ParametrParser) (2014г)
-  - [Ogre3D Movement & Animation](https://github.com/Demetri0/Ogre3DMovement) [[Видео]](https://vk.com/video181219257_168403478) (2014г)
-  - [MaxFromTriangle recursive](https://github.com/Demetri0/Triangle) [[Картинка]](https://pp.vk.me/c621825/v621825257/12cb1/HYk2KsLY1lw.jpg)
-  - [Qt-like library for WinApi](https://github.com/TheCodingArt/WWin) (2017г)
+  - [Ogre3D Movement & Animation (C++)](https://github.com/Demetri0/Ogre3DMovement) [[Видео]](https://vk.com/video181219257_168403478) (2014г)
+  - [MaxFromTriangle recursive (C++)](https://github.com/Demetri0/Triangle) [[Картинка]](https://pp.vk.me/c621825/v621825257/12cb1/HYk2KsLY1lw.jpg)
+  - [Qt-like library for WinApi (C++)](https://github.com/TheCodingArt/WWin) (2017г)
+  - [Wikipedia Command Line(Python)](https://github.com/Demetri0/cwiki/) (2017)
 
 ## Прочие сертификаты:
 
@@ -96,17 +97,8 @@ Git             | [GeekBrains](https://geekbrains.ru/certificates/98714)
 PhotoShop       | [GeekBrains](https://geekbrains.ru/certificates/98725)
 
 ## О себе:
-Закончил колледж в 2015 году, по специальности "Вычислительная техника и программное обеспечение". Постоянно занимаюсь самообучением, не выношу скучной и нудной работы. Люблю программировать, нравится всё что связано с IT(Информационными Технологиями). Предпочитаю работать в команде, где не только я вовлечён в разработку продукта.
+Закончил колледж в 2015 году, по специальности "Вычислительная техника и программное обеспечение". Постоянно занимаюсь самообучением, не выношу скучной и нудной работы. Люблю программировать, нравится всё что связано с IT(Информационными Технологиями).
 
-Очень придирчиво отношусь к качеству и читабельности кода, предпочитаю провести день в раздумьях над хорошей реализацией, чем писать код который в последствии будет трудно сопровождать. Так же придирчиво отношусь к дизайну интерфейсов, качественный интерфейс - залог успеха продукта, а так же показатель его качества, хотя конвейерной разработки это не касается.
+Очень придирчиво отношусь к качеству, архитектуре и читабельности кода, предпочитаю провести день в раздумьях над хорошей реализацией, чем писать код который в последствии будет трудно сопровождать. Так же придирчиво отношусь к дизайну интерфейсов, качественный интерфейс - залог успеха продукта, а так же показатель его качества.
 
 В свободное время люблю смотреть аниме; нравится рок и электронная музыка; читаю фантастику и киберпанк.
-
-- Недостатки:
-  - Могу тратить много времени на обдумывание архитектуры проекта.
-  - Отсутствуют знания и способности к математике.
-  - Чуствую себя скованно в общении с новыми людьми.
-- Достоинства:
-  - Неплохо кодю.
-  - Стараюсь писать качественный код, насколько позволяют навыки, а их вы можете оценить посмотрев мои репозитории.
-  - Люблю учиться чему-то новому и разбираться в новых технологиях.
