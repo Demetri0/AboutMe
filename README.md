@@ -11,8 +11,6 @@
 - Язык:       C/C++/Java/Python/JavaScript
 - Фреймворки: Qt/Node.js/React
 
-**Это не означает что я не могу работать с другими, просто с этими фреймворками я буду проявлять больше энтузиазма*
-
 ## Знание языков (В порядке уровня знаний, выше-лучше):
 
 |  # |    Язык    |  Сертификат |
@@ -49,6 +47,8 @@
 - **Разработка приложений** под `GNU/Linux`, `Windows`, `MacOS`
 - **Рефакторинг** и **ревью** кода.
 - Разработка 2D игр с использованием графической библиотеки `OpenGL` и `SFML`
+- Работа с дисковыми устройствами поддерживающими `SCSI`
+- Работа с `UNIX` Сокетами
 - Начальные навыки работы с графическим 3D движком `Ogre3D`
 
 ## Опыт работы
@@ -86,6 +86,7 @@ Deployment сайтов на продакшн сервера. Настройка
   - [MaxFromTriangle recursive (C++)](https://github.com/Demetri0/Triangle) [[Картинка]](https://pp.vk.me/c621825/v621825257/12cb1/HYk2KsLY1lw.jpg)
   - [Qt-like library for WinApi (C++)](https://github.com/TheCodingArt/WWin) (2017г)
   - [Wikipedia Command Line(Python)](https://github.com/Demetri0/cwiki/) (2017)
+  - [SCSI & Unix sockets](https://github.com/Demetri0/SCSI_Lib) (2017)
 
 ## Прочие сертификаты:
 
