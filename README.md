@@ -18,7 +18,7 @@
 |  1 | HTML5/CSS3 | [ЦКО "Специалист" (L3)](./certificate/specialist/ru_html%26css_basic.png) [GeekBrains (L2)](https://geekbrains.ru/certificates/98723) |
 |  2 | JavaScript | [GeekBrains (L1)](https://geekbrains.ru/certificates/46740) |
 |  3 | Си         | Отсутствует |
-|  4 | С++        | Отсутствует |
+|  4 | С++        | [GeekBrains (L1)](https://geekbrains.ru/certificates/250131) |
 |  5 | php        | [GeekBrains (L1)](https://geekbrains.ru/certificates/46750) |
 |  6 | Java       | [GeekBrains (L1)](https://geekbrains.ru/certificates/46738) |
 |  7 | Python     | Отсутствует |
