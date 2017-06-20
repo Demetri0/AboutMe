@@ -11,24 +11,6 @@
 - Язык:       C/C++/Java/Python/JavaScript
 - Фреймворки: Qt/Node.js/React
 
-## Знание языков (В порядке уровня знаний, выше-лучше):
-
-|  # |    Язык    |  Сертификат |
-|----|------------| ------------|
-|  1 | HTML5/CSS3 | [ЦКО "Специалист" (L3)](./certificate/specialist/ru_html%26css_basic.png) [GeekBrains (L2)](https://geekbrains.ru/certificates/98723) |
-|  2 | JavaScript | [GeekBrains (L1)](https://geekbrains.ru/certificates/46740) |
-|  3 | Си         | Отсутствует |
-|  4 | С++        | [GeekBrains (L1)](https://geekbrains.ru/certificates/250131) |
-|  5 | php        | [GeekBrains (L1)](https://geekbrains.ru/certificates/46750) |
-|  6 | Java       | [GeekBrains (L1)](https://geekbrains.ru/certificates/46738) |
-|  7 | Python     | Отсутствует |
-|  8 | SQL        | Отсутствует |
-|  9 | Assembly   | Отсутствует |
-| 10 | Delphy     | Отсутствует |
-| 11 | Pascal     | Отсутствует |
-
-**Сертификатами не особо заморачивался, просто на прошлой работе попросили получить чтобы расположить на сайте, но в итоге не понадобились.*
-
 ## Имеющиеся навыки:
 
 ### Общие навыки
@@ -87,15 +69,6 @@ Deployment сайтов на продакшн сервера. Настройка
   - [Qt-like library for WinApi (C++)](https://github.com/TheCodingArt/WWin) (2017г)
   - [Wikipedia Command Line(Python)](https://github.com/Demetri0/cwiki/) (2017)
   - [SCSI & Unix sockets](https://github.com/Demetri0/SCSI_Lib) (2017)
-
-## Прочие сертификаты:
-
-Наименование    | Сертификат
---------------- | -------------
-Linux           | [Stepic](https://stepic.org/certificate/ea58ed5ec9ccaa99502af3ac68fcd63c23e3fb6e.pdf)
-Web Дизайн      | [GeekBrains](https://geekbrains.ru/certificates/44971)
-Git             | [GeekBrains](https://geekbrains.ru/certificates/98714)
-PhotoShop       | [GeekBrains](https://geekbrains.ru/certificates/98725)
 
 ## О себе:
 Закончил колледж в 2015 году, по специальности "Вычислительная техника и программное обеспечение". Постоянно занимаюсь самообучением, не выношу скучной и нудной работы. Люблю программировать, нравится всё что связано с IT(Информационными Технологиями).
