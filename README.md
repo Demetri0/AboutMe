@@ -68,7 +68,7 @@ Deployment сайтов на продакшн сервера. Настройка
   - [MaxFromTriangle recursive (C++)](https://github.com/Demetri0/Triangle) [[Картинка]](https://pp.vk.me/c621825/v621825257/12cb1/HYk2KsLY1lw.jpg)
   - [Qt-like library for WinApi (C++)](https://github.com/TheCodingArt/WWin) (2017г)
   - [Wikipedia Command Line(Python)](https://github.com/Demetri0/cwiki/) (2017)
-  - [SCSI & Unix sockets](https://github.com/Demetri0/SCSI_Lib) (2017)
+  - [SCSI & Unix sockets (C++)](https://github.com/Demetri0/SCSI_Lib) (2017)
 
 ## О себе:
 Закончил колледж в 2015 году, по специальности "Вычислительная техника и программное обеспечение". Постоянно занимаюсь самообучением, не выношу скучной и нудной работы. Люблю программировать, нравится всё что связано с IT(Информационными Технологиями).
