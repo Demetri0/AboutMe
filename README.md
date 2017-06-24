@@ -50,6 +50,7 @@ Deployment сайтов на продакшн сервера. Настройка
   - [gsc-mod.ru](http://stalker-zone13.ucoz.ru/) [[Картинка]](https://pp.vk.me/c628123/v628123257/bf35/6I0knWLINdo.jpg) (2010г)
   - [xomdes.tk](https://github.com/Demetri0/xD_Xomdes) [[Картинка]](https://github.com/Demetri0/xD_Xomdes/raw/master/design.jpg) (2011г)
   - Во время работы в `Your Busines Lab`
+    - [social-help.kz](http://social-help.kz) (2017г)
     - [ck.kz](http://ck.kz/) (2016г)
     - [nobelkz.com](http://nobelkz.com/) (2016г)
     - [abexpo.kz](http://abexpo.kz/) (2016г)
